@@ -45,7 +45,7 @@ a {
     position: absolute;
     right: 0;
     top: 0;
-    background-image:url('http://yourshot.nationalgeographic.com/photos/6232947/');
+    background-image:url('http://lorempixel.com/1024/760/nature/3/');
     background-size:cover;
     background-attachment:fixed;
 }
@@ -73,8 +73,8 @@ a {
   padding:3px;
   background-color:#fff;
   color:#777777;
-  height:40px;
-  width:40px;
+  height:120px;
+  width:120px;
   margin:15px;
   font-size:26px;
   font-weight:700;
